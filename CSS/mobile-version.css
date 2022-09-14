@@ -2,8 +2,8 @@
 
 @font-face {
   font-family: 'Cocogoose';
-  src: url(../Cocogoose_trial.otf);
-  src: local('Cocogoose'), url(../Cocogoose_trial.otf) format('truetype');
+  src: url(../Cocogoose-trial.ttf);
+  src: local('Cocogoose'), url(../Cocogoose-trial.ttf) format('truetype');
 }
 
 /* ### PreProcessing ### */
@@ -194,7 +194,7 @@ header {
   width: 100%;
   height: 100%;
   opacity: 0.2;
-  background-image: url('../images/nature1.jpg');
+  background-image: url('../image/nature1.jpg');
   background-repeat: no-repeat;
   background-position: 50% 0;
   background-size: cover;
@@ -216,7 +216,7 @@ header {
 
 .headline__h1 {
   font-weight: 900;
-  background-image: url('../images/bg-txt.jpg');
+  background-image: url('../image/bg-txt.jpg');
   background-clip: border-box;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -250,7 +250,7 @@ header {
 }
 
 #features {
-  background: #272a31 url('../images/pattern-bg.png');
+  background: #272a31 url('../image/pattern-bg.png');
 }
 
 #features .flex-container {
@@ -385,7 +385,7 @@ header {
   height: 70px;
   top: 0;
   left: 0;
-  background: url('../images/bg-staff.jpg');
+  background: url('../image/bg-staff.jpg');
   opacity: 0.7;
   border: 1px solid black;
 }
@@ -433,7 +433,7 @@ header {
   width: 100%;
   height: 100%;
   opacity: 0.5;
-  background-image: url('../images/nature2.jpg');
+  background-image: url('../image/nature2.jpg');
   background-repeat: no-repeat;
   background-position: 50% 0;
   background-size: cover;
@@ -598,7 +598,7 @@ header {
   width: 100%;
   height: 100%;
   z-index: -1;
-  background: url("../images/tours/turkey.jpg") 0 50%;
+  background: url("../image/blue-nile-waterfalls-bahar-dar-600w-2116985855.webp") 0 50%;
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -611,7 +611,7 @@ header {
   width: 100%;
   height: 100%;
   z-index: -1;
-  background: url("../images/tours/spain.jpg") 0 50%;
+  background: url("../image/Ethiopia1.jpg") 0 50%;
   background-repeat: no-repeat;
   background-size: cover;
 }
