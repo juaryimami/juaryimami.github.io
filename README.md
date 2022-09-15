@@ -41,4 +41,9 @@ a design to create a UI.
 
 ## Acknowledgments
 
-- Thanks to all of my coding partners
+- Thanks to Microverse
+- Thanks to  Cindy Shin the author of the original design, as required by the Creative Commons License.
+
+## 📝 License
+
+This project is [MIT](LICENSE) licensed.
