@@ -261,7 +261,7 @@
     }
   
     #partners {
-      display: none;
+      display: flex;
     }
   
     #partners-main h2 {
@@ -408,7 +408,7 @@
     #footer-main {
       display: flex;
       padding: 2%;
-      background-color: var(--Grey);
+      background-color: var(--Dark-Grey);
     }
   
     #footer-main .flex-container {
