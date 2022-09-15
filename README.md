@@ -8,7 +8,7 @@ on my design and also animations are applied.
 ## Live Demo
 You can view my hosted website in the link shown below.
 GitHub: [@JUPAC](https://juaryimami.github.io/)
-Video link:[live development](https://www.loom.com/share/b9655fa2600b44bea8b4d2c69f842b66)
+(https://www.loom.com/share/b9655fa2600b44bea8b4d2c69f842b66)
 
 #### :hammer: Built With
 
