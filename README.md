@@ -7,7 +7,16 @@ on my design and also animations are applied.
 
 ## Live Demo
 You can view my hosted website in the link shown below.
+<<<<<<< HEAD
 GitHub: [@JUPAC](https://juaryimami.github.io/)
+=======
+GitHub: [@JUP
+
+https://user-images.githubusercontent.com/49280606/190211864-4b48ae87-9170-48f6-ac82-7b3fe41c81b6.mp4
+
+AC](https://juaryimami.github.io/)
+
+>>>>>>> 4f2549fb513e50eea9ddc87e71819a62eee36d23
 
 #### :hammer: Built With
 
@@ -16,7 +25,9 @@ GitHub: [@JUPAC](https://juaryimami.github.io/)
 - VISUAL STUDIO CODE 
 ## :blue_book: Learning Objectives
 
-- Understand how to parse a Figma design to create a UI.
+- Understand how to parse a Figm
+
+a design to create a UI.
 - Flexbox to place elements in the page.
 - Build a personal portfolio site.
 - Use images and backgrounds to enhance the look of the website.
