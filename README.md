@@ -8,6 +8,7 @@ on my design and also animations are applied.
 ## Live Demo
 You can view my hosted website in the link shown below.
 GitHub: [@JUPAC](https://juaryimami.github.io/)
+
 #### :hammer: Built With
 
 - HTML and CSS JAVASCRIPT
