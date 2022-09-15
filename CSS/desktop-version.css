@@ -261,7 +261,7 @@
     }
   
     #partners {
-      display: none;
+      display: flex;
     }
   
     #partners-main h2 {
@@ -408,7 +408,7 @@
     #footer-main {
       display: flex;
       padding: 2%;
-      background-color: var(--Grey);
+      background-color: var(--White);
     }
   
     #footer-main .flex-container {
@@ -424,7 +424,7 @@
     #footer-main .flex-container p {
       font-family: var(--fontFamily-lato);
       font-weight: normal;
-      color: var(--White);
+      color: var(--Black);
       font-size: 0.8rem;
     }
   }

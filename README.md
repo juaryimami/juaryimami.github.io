@@ -8,14 +8,18 @@ on my design and also animations are applied.
 ## Live Demo
 You can view my hosted website in the link shown below.
 GitHub: [@JUPAC](https://juaryimami.github.io/)
-## :hammer: Built With
+(https://www.loom.com/share/b9655fa2600b44bea8b4d2c69f842b66)
+
+#### :hammer: Built With
 
 - HTML and CSS JAVASCRIPT
 - FIGMA GIT GITHUB
 - VISUAL STUDIO CODE 
 ## :blue_book: Learning Objectives
 
-- Understand how to parse a Figma design to create a UI.
+- Understand how to parse a Figm
+
+a design to create a UI.
 - Flexbox to place elements in the page.
 - Build a personal portfolio site.
 - Use images and backgrounds to enhance the look of the website.
@@ -33,4 +37,9 @@ GitHub: [@JUPAC](https://juaryimami.github.io/)
 
 ## Acknowledgments
 
-- Thanks to all of my coding partners
+- Thanks to Microverse
+- Thanks to  Cindy Shin the author of the original design, as required by the Creative Commons License.
+
+## 📝 License
+
+This project is [MIT](LICENSE) licensed.
